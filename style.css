@@ -1,37 +1,21 @@
-<!DOCTYPE html> 
+/*
 
+CSS: element, id, class
 
-<html>
+selector{
+   property:value;
+}
 
+*/
 
-<head lang="en">
+body{ 
+   background-color: lightgreen
+}
 
+h1{
+   text-decoration:underline
+}
 
-<meta charset="UTF-8">
-
-
-<title>Hello World!</title>
-
-
-
-
-
-
-
-
-
-
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-
-
-
-
-
-
-
-
-
-
-
-</head>
+#header{
+   text-align:center;
+}
